@@ -13,32 +13,32 @@
 
 ### Languages
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="60" alt="Python"/>  
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" width="60" alt="SQL"/>  
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/dax/dax.png" width="60" alt="DAX"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dax/dax-original.svg" width="60" alt="DAX"/>
 </p>
 
 ### Python Libraries & Frameworks
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/numpy/numpy.png" width="60" alt="NumPy"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/pandas/pandas.png" width="60" alt="Pandas"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/matplotlib/matplotlib.png" width="60" alt="Matplotlib"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/seaborn/seaborn.png" width="60" alt="Seaborn"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/scipy/scipy.png" width="60" alt="SciPy"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/scikit-learn/scikit-learn.png" width="60" alt="Scikit-Learn"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png" width="60" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="60" alt="Matplotlib"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="60" alt="Seaborn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="60" alt="SciPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="60" alt="Scikit-Learn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" alt="TensorFlow"/>
 </p>
 
 ### Databases & Tools
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" width="60" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/excel/excel.png" width="60" alt="Excel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="60" alt="Excel"/>
 </p>
 
 ### BI & Visualization
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/powerbi/powerbi.png" width="60" alt="Power BI"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/tableau/tableau.png" width="60" alt="Tableau"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_Logo.svg" width="60" alt="Power BI"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="60" alt="Tableau"/>
 </p>
 
 ---
@@ -56,4 +56,6 @@
 </p>
 
 *"Data is the code of the future, and I am the architect."* 🛸
+
+
 
