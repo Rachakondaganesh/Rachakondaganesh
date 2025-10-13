@@ -1,59 +1,37 @@
+## 🧠 Languages
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD5tv1ogNBtDhDi/giphy.gif" width="600"/>
-</p>
-
-# 👾 Rachakonda Ganesh
-**Data Analyst | Python & SQL | Deep Learning Explorer**  
-
-*Turning raw data into futuristic insights with AI, Machine Learning, and Data Visualization.*
-
----
-
-## 💻 Programming & Tools
-
-### Languages
-<p align="center">
-  <img src="images/python.png" width="60" alt="Python"/>
-  <img src="images/sql.png" width="60" alt="SQL"/>
-  <img src="images/dax.png" width="60" alt="DAX"/>
-</p>
-
-### Python Libraries & Frameworks
-<p align="center">
-  <img src="images/numpy.png" width="60" alt="NumPy"/>
-  <img src="images/pandas.png" width="60" alt="Pandas"/>
-  <img src="images/matplotlib.png" width="60" alt="Matplotlib"/>
-  <img src="images/seaborn.png" width="60" alt="Seaborn"/>
-  <img src="images/scipy.png" width="60" alt="SciPy"/>
-  <img src="images/scikit-learn.png" width="60" alt="Scikit-Learn"/>
-  <img src="images/tensorflow.png" width="60" alt="TensorFlow"/>
-</p>
-
-### Databases & Tools
-<p align="center">
-  <img src="images/mysql.png" width="60" alt="MySQL"/>
-  <img src="images/excel.png" width="60" alt="Excel"/>
-</p>
-
-### BI & Visualization
-<p align="center">
-  <img src="images/powerbi.png" width="60" alt="Power BI"/>
-  <img src="images/tableau.png" width="60" alt="Tableau"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" alt="SQL"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/DAX_logo.png" width="60" alt="DAX"/>
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 🔬 Python Libraries & Frameworks
 <p align="center">
-  <a href="https://rachakonda-ganesh.lovable.app/"><img src="images/website-badge.png" width="120" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/rachakonda-ganesh-2782452a8"><img src="images/linkedin-badge.png" width="120" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/gany9c?igsh=MWZwOW9jMzY5MWY2dA=="><img src="images/instagram-badge.png" width="120" alt="Instagram"/></a>
-  <a href="mailto:rachakondaganesh60@gmail.com"><img src="images/email-badge.png" width="120" alt="Email"/></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" alt="Pandas"/>
+  <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/matplotlib.png" width="60" alt="Matplotlib"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="60" alt="Seaborn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="60" alt="SciPy"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" alt="Scikit-Learn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" alt="TensorFlow"/>
 </p>
 
+---
+
+## 🗄️ Databases & Tools
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="600"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" alt="MySQL"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282019–present%29.svg" width="60" alt="Excel"/>
 </p>
 
-*"Data is the code of the future, and I am the architect."* 🛸
+---
+
+## 📊 BI & Visualization
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_Logo.svg" width="60" alt="Power BI"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="60" alt="Tableau"/>
+</p>
+
 
