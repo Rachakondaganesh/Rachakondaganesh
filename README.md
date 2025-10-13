@@ -31,7 +31,7 @@
 
 ## ⚙️ Technical Expertise
 💻 **Languages:** Python, SQL  
-📊 **Libraries:** NumPy, Pandas, Seaborn, Scikit-learn, TensorFlow  
+📊 **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scipy, Scikit-learn, NLP, TensorFlow  
 📈 **Visualization Tools:** Power BI, Tableau  
 🧠 **Concepts:** EDA, Data Cleaning, Regression, Classification, Forecasting, Machine Learning  
 🧰 **Database:** MySQL  
