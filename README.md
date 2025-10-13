@@ -1,9 +1,5 @@
 <!-- Futuristic GitHub Profile README for Rachakonda Ganesh -->
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD5tv1ogNBtDhDi/giphy.gif" width="600"/>
-</p>
-
 <h1 align="center">🚀 Rachakonda Ganesh</h1>
 <h3 align="center">Data Analyst | Python • SQL • Power BI • Machine Learning • Data Visualization</h3>
 
